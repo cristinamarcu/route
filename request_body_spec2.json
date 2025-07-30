@@ -1,0 +1,19 @@
+{
+    "route_release_id": 51,
+    "route_algorithm_version": 10.2,
+    "option_split_reach": true,
+    "algorithm_figures": [
+        "impacts",
+        "impacts_quarter_hour"
+    ],
+    "demographics": [
+        {
+            "demographic_id": 16
+        }
+    ],
+    "default_spot_length": 10,
+    "default_spot_break_length": 50,
+    "campaign":[],
+    "target_month": 3,
+    "option_respondent_data": false
+}
