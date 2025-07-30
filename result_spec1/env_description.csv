@@ -1,0 +1,21 @@
+environment,environment_name
+1,Roadside (Inventory with a vehicular audience)
+2,Taxi (Taxi exteriors)
+3,Bus (Bus exterior)
+4,Rail (Rail stations and train interior)
+5,Underground (Tube stations and tube car interior)
+6,Airport (Inventory in and around an Airport)
+7,Shopping centres (interior)
+8,"Retail open (Supermarket car parks, pedestrian shopping precincts, retail park exterior)"
+9,Leisure–cinema
+10,Bus Station
+11,Rail Station
+12,Underground station
+13,Train carriage interior
+14,Tube carriage interior
+15,Airport enclosed
+16,Airport open
+17,Tram or light railway carriage interior
+18,Motorway service stations
+19,Shopping centre (exterior)
+20,Supermarket (exterior)
