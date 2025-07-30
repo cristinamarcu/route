@@ -1,0 +1,299 @@
+{
+    "route_release_id": 51,
+    "default_demographic_id": 1,
+    "demographics": [
+        {
+            "demographic_id": 1,
+            "description": "All Adults 15+",
+            "expression": "ageband>=1",
+            "sample_size": 25420,
+            "population": "54312.2109122386"
+        },
+        {
+            "demographic_id": 2,
+            "description": "Men 15+",
+            "expression": "ageband>=1 and sex=1",
+            "sample_size": 12200,
+            "population": "26361.5672833921"
+        },
+        {
+            "demographic_id": 3,
+            "description": "Women 15+",
+            "expression": "ageband>=1 and sex=2",
+            "sample_size": 13220,
+            "population": "27950.6436288471"
+        },
+        {
+            "demographic_id": 4,
+            "description": "ABC1 Adults 15+",
+            "expression": "ageband>=1 AND social_grade<4",
+            "sample_size": 15842,
+            "population": "30578.3178420773"
+        },
+        {
+            "demographic_id": 5,
+            "description": "Mainshoppers 15+",
+            "expression": "ageband>=1 AND head_household=1",
+            "sample_size": 14922,
+            "population": "31054.3774782511"
+        },
+        {
+            "demographic_id": 7,
+            "description": "ABC1 Adults 25-44",
+            "expression": "ageband>=3 AND ageband<7 and social_grade<4",
+            "sample_size": 5096,
+            "population": "9967.876706208"
+        },
+        {
+            "demographic_id": 8,
+            "description": "Employed 18+",
+            "expression": "ageband>=2 and working_status<5",
+            "sample_size": 16643,
+            "population": "30256.7404749273"
+        },
+        {
+            "demographic_id": 9,
+            "description": "Public Transport Commuters",
+            "expression": "ageband>=1 and (work_underground=1 or work_train=1 or work_bus=1 or work_taxi=1)",
+            "sample_size": 4283,
+            "population": "8679.471540424"
+        },
+        {
+            "demographic_id": 10,
+            "description": "Home Owners",
+            "expression": "ageband>=1 and home_ownership<3",
+            "sample_size": 17876,
+            "population": "36661.9859863191"
+        },
+        {
+            "demographic_id": 11,
+            "description": "Complex Audience (test-only)",
+            "expression": "(ageband>=1 AND sex=1 and social_grade<4) or (ageband>=10 AND ageband<12 and marital_status=4)",
+            "sample_size": 8340,
+            "population": "16834.237471848"
+        },
+        {
+            "demographic_id": 12,
+            "description": "ABC1 Women 15+",
+            "expression": "ageband>=1 AND social_grade<4 and sex=2",
+            "sample_size": 8300,
+            "population": "15974.850563005"
+        },
+        {
+            "demographic_id": 13,
+            "description": "ABC1 Men 15+",
+            "expression": "ageband>=1 AND sex=1 AND social_grade<4",
+            "sample_size": 7542,
+            "population": "14603.467279072"
+        },
+        {
+            "demographic_id": 15,
+            "description": "London All Adults",
+            "expression": "ageband>=1 and tv_area=4",
+            "sample_size": 5656,
+            "population": "10940.179839485"
+        },
+        {
+            "demographic_id": 16,
+            "description": "Adults 15-34",
+            "expression": "ageband>=1 and ageband<=4",
+            "sample_size": 5912,
+            "population": "16380.249985992"
+        },
+        {
+            "demographic_id": 17,
+            "description": "Adults 45+",
+            "expression": "ageband>=7",
+            "sample_size": 14920,
+            "population": "29283.8415988651"
+        },
+        {
+            "demographic_id": 18,
+            "description": "ABC1 15-34",
+            "expression": "social_grade<=3 and ageband <=4",
+            "sample_size": 3536,
+            "population": "9041.693198293"
+        },
+        {
+            "demographic_id": 19,
+            "description": "ABC1 45+",
+            "expression": "social_grade<=3 and ageband >=7",
+            "sample_size": 9214,
+            "population": "16355.447310318"
+        },
+        {
+            "demographic_id": 20,
+            "description": "AB Adults",
+            "expression": "social_grade<=2",
+            "sample_size": 7965,
+            "population": "13341.794424335"
+        },
+        {
+            "demographic_id": 21,
+            "description": "Housewives with Kids",
+            "expression": "sex=2 AND head_household=1 AND (child_0_3>0 OR child_4_9>0 OR child_10_14>0)",
+            "sample_size": 3309,
+            "population": "6631.187594218"
+        },
+        {
+            "demographic_id": 22,
+            "description": "C2DE Adults",
+            "expression": "social_grade>=4",
+            "sample_size": 9578,
+            "population": "23733.893070162"
+        },
+        {
+            "demographic_id": 23,
+            "description": "AB London",
+            "expression": "social_grade <=2 AND tv_area=4",
+            "sample_size": 2199,
+            "population": "3391.787349374"
+        },
+        {
+            "demographic_id": 24,
+            "description": "Manchester All Adults",
+            "expression": "conurbation=10",
+            "sample_size": 972,
+            "population": "2307.934782444"
+        },
+        {
+            "demographic_id": 25,
+            "description": "Birmingham All Adults",
+            "expression": "town=88",
+            "sample_size": 380,
+            "population": "834.05932928"
+        },
+        {
+            "demographic_id": 26,
+            "description": "Yorkshire All Adults",
+            "expression": "tv_area=13",
+            "sample_size": 2597,
+            "population": "5436.646753134"
+        },
+        {
+            "demographic_id": 27,
+            "description": "Liverpool All Adults",
+            "expression": "town=535",
+            "sample_size": 168,
+            "population": "402.456996747"
+        },
+        {
+            "demographic_id": 28,
+            "description": "ABC1 London",
+            "expression": "social_grade <=3 AND tv_area=4",
+            "sample_size": 3915,
+            "population": "6919.13294678"
+        },
+        {
+            "demographic_id": 29,
+            "description": "Glasgow All Adults",
+            "expression": "town=349 OR town=350",
+            "sample_size": 236,
+            "population": "507.869251139"
+        },
+        {
+            "demographic_id": 30,
+            "description": "Edinburgh All Adults",
+            "expression": "town=303",
+            "sample_size": 171,
+            "population": "413.967989158"
+        },
+        {
+            "demographic_id": 31,
+            "description": "Leeds All Adults",
+            "expression": "town=515",
+            "sample_size": 129,
+            "population": "353.807407978"
+        },
+        {
+            "demographic_id": 32,
+            "description": "Bristol All Adults",
+            "expression": "town=130",
+            "sample_size": 175,
+            "population": "445.63097734"
+        },
+        {
+            "demographic_id": 33,
+            "description": "Adults 15-54",
+            "expression": "ageband>=1 and ageband<=8",
+            "sample_size": 16023,
+            "population": "33295.7705788412"
+        },
+        {
+            "demographic_id": 34,
+            "description": "Adults 35-54",
+            "expression": "ageband>=5 and ageband<=8",
+            "sample_size": 10111,
+            "population": "16915.5205928491"
+        },
+        {
+            "demographic_id": 35,
+            "description": "Men 35 - 54",
+            "expression": "sex=1 and ageband>=5 and ageband<=8",
+            "sample_size": 4602,
+            "population": "8276.464697149"
+        },
+        {
+            "demographic_id": 36,
+            "description": "Women 35-54",
+            "expression": "sex=2 and ageband>=5 and ageband<=8",
+            "sample_size": 5509,
+            "population": "8639.0558957"
+        },
+        {
+            "demographic_id": 37,
+            "description": "Adults 55+",
+            "expression": "ageband>=9",
+            "sample_size": 9397,
+            "population": "21016.440333398"
+        }
+    ],
+    "granularity_audiences": [
+        {
+            "granular_audience_id": 1,
+            "description": "All Adults"
+        },
+        {
+            "granular_audience_id": 10,
+            "description": "Males"
+        },
+        {
+            "granular_audience_id": 11,
+            "description": "Males 15 - 34"
+        },
+        {
+            "granular_audience_id": 12,
+            "description": "Males 35 - 54"
+        },
+        {
+            "granular_audience_id": 13,
+            "description": "Males 55+"
+        },
+        {
+            "granular_audience_id": 20,
+            "description": "Females"
+        },
+        {
+            "granular_audience_id": 21,
+            "description": "Females 15 - 34"
+        },
+        {
+            "granular_audience_id": 22,
+            "description": "Females 35 - 54"
+        },
+        {
+            "granular_audience_id": 23,
+            "description": "Females 55+"
+        },
+        {
+            "granular_audience_id": 30,
+            "description": "Social Grade ABC1"
+        },
+        {
+            "granular_audience_id": 31,
+            "description": "Social Grade C2DE"
+        }
+    ],
+    "trial_remaining_calls": 497,
+    "processed_datetime": "2025-07-28 15:29:29"
+}
