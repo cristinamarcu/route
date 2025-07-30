@@ -1,0 +1,197 @@
+{
+    "route_release_id": 51,
+    "route_release_revision": 3,
+    "route_algorithm_version": 10.2,
+    "frame_exceptions": [
+        2000212088,
+        2000212187,
+        2000212079,
+        2000211715,
+        2000212118
+    ],
+    "results": [
+        {
+            "description": "total",
+            "demographic": "Adults 15-34 (16)",
+            "granular_audience": "All Adults (1)",
+            "target_month": 3,
+            "figures": {
+                "impacts": "1041.37687949",
+                "impacts_pedestrian": "651.552313385",
+                "impacts_vehicular": "389.824566105",
+                "gross_rating_points": "6.3575151807",
+                "reach": "688.8306771764",
+                "reach_pedestrian": "510.0212740835",
+                "reach_vehicular": "198.568430753",
+                "average_frequency": "1.5118038641",
+                "rag_status": "green"
+            },
+            "metrics": {
+                "total_frames": 95,
+                "total_dynamic_frames": 95,
+                "total_contacts": 201313,
+                "total_actual_contacts": 96141,
+                "total_respondents": 5814,
+                "total_actual_respondents": 2380
+            }
+        },
+        {
+            "description": "grouping",
+            "demographic": "Adults 15-34 (16)",
+            "granular_audience": "All Adults (1)",
+            "target_month": 3,
+            "environment": "1",
+            "figures": {
+                "impacts": "525.3246905495",
+                "impacts_pedestrian": "159.9831967481",
+                "impacts_vehicular": "365.3414938014",
+                "gross_rating_points": "3.2070614978",
+                "reach": "412.4138025654",
+                "reach_pedestrian": "174.7439390441",
+                "reach_vehicular": "250.3869012325",
+                "average_frequency": "1.273780575",
+                "rag_status": "green"
+            },
+            "metrics": {
+                "total_frames": 59,
+                "total_dynamic_frames": 59,
+                "total_contacts": 101441,
+                "total_actual_contacts": 37611,
+                "total_respondents": 5665,
+                "total_actual_respondents": 2074
+            }
+        },
+        {
+            "description": "grouping",
+            "demographic": "Adults 15-34 (16)",
+            "granular_audience": "All Adults (1)",
+            "target_month": 3,
+            "environment": "18",
+            "figures": {
+                "impacts": "25.0555731855",
+                "impacts_pedestrian": "9.0307880355",
+                "impacts_vehicular": "16.02478515",
+                "gross_rating_points": "0.1529620928",
+                "reach": "14.8126853631",
+                "reach_pedestrian": "8.3522764886",
+                "reach_vehicular": "6.7833856678",
+                "average_frequency": "1.691494322",
+                "rag_status": "green"
+            },
+            "metrics": {
+                "total_frames": 7,
+                "total_dynamic_frames": 7,
+                "total_contacts": 16150,
+                "total_actual_contacts": 7456,
+                "total_respondents": 2500,
+                "total_actual_respondents": 44
+            }
+        },
+        {
+            "description": "grouping",
+            "demographic": "Adults 15-34 (16)",
+            "granular_audience": "All Adults (1)",
+            "target_month": 3,
+            "environment": "20",
+            "figures": {
+                "impacts": "25.1216802216",
+                "impacts_pedestrian": "16.6633930679",
+                "impacts_vehicular": "8.4582871537",
+                "gross_rating_points": "0.1533656705",
+                "reach": "8.3715229604",
+                "reach_pedestrian": "5.6357381162",
+                "reach_vehicular": "2.9023892113",
+                "average_frequency": "3.000849468",
+                "rag_status": "green"
+            },
+            "metrics": {
+                "total_frames": 5,
+                "total_dynamic_frames": 5,
+                "total_contacts": 11746,
+                "total_actual_contacts": 7944,
+                "total_respondents": 1611,
+                "total_actual_respondents": 23
+            }
+        },
+        {
+            "description": "grouping",
+            "demographic": "Adults 15-34 (16)",
+            "granular_audience": "All Adults (1)",
+            "target_month": 3,
+            "environment": "7",
+            "figures": {
+                "impacts": "291.7603203001",
+                "impacts_pedestrian": "291.7603203001",
+                "impacts_vehicular": "0",
+                "gross_rating_points": "1.781171353",
+                "reach": "98.4403150203",
+                "reach_pedestrian": "98.4403150203",
+                "reach_vehicular": "0",
+                "average_frequency": "2.9638296082",
+                "rag_status": "green"
+            },
+            "metrics": {
+                "total_frames": 6,
+                "total_dynamic_frames": 6,
+                "total_contacts": 39112,
+                "total_actual_contacts": 31206,
+                "total_respondents": 956,
+                "total_actual_respondents": 155
+            }
+        },
+        {
+            "description": "grouping",
+            "demographic": "Adults 15-34 (16)",
+            "granular_audience": "All Adults (1)",
+            "target_month": 3,
+            "environment": "11",
+            "figures": {
+                "impacts": "17.5548953387",
+                "impacts_pedestrian": "17.5548953387",
+                "impacts_vehicular": "0",
+                "gross_rating_points": "0.1071711076",
+                "reach": "17.2891740404",
+                "reach_pedestrian": "17.2891740404",
+                "reach_vehicular": "0",
+                "average_frequency": "1.0153692303",
+                "rag_status": "green"
+            },
+            "metrics": {
+                "total_frames": 5,
+                "total_dynamic_frames": 5,
+                "total_contacts": 3304,
+                "total_actual_contacts": 2274,
+                "total_respondents": 897,
+                "total_actual_respondents": 321
+            }
+        },
+        {
+            "description": "grouping",
+            "demographic": "Adults 15-34 (16)",
+            "granular_audience": "All Adults (1)",
+            "target_month": 3,
+            "environment": "12",
+            "figures": {
+                "impacts": "156.5597198946",
+                "impacts_pedestrian": "156.5597198946",
+                "impacts_vehicular": "0",
+                "gross_rating_points": "0.9557834589",
+                "reach": "149.9561667933",
+                "reach_pedestrian": "149.9561667933",
+                "reach_vehicular": "0",
+                "average_frequency": "1.0440365558",
+                "rag_status": "green"
+            },
+            "metrics": {
+                "total_frames": 13,
+                "total_dynamic_frames": 13,
+                "total_contacts": 29560,
+                "total_actual_contacts": 9650,
+                "total_respondents": 2048,
+                "total_actual_respondents": 622
+            }
+        }
+    ],
+    "total_processing_time": 3577,
+    "processed_datetime": "2025-07-28 16:52:45"
+}

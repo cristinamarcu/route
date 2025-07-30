@@ -1,0 +1,79 @@
+{
+    "route_release_id": 51,
+    "route_release_revision": 3,
+    "route_algorithm_version": 10.2,
+    "frame_exceptions": [
+        2000211801,
+        2000215451,
+        2000212188,
+        2000211935,
+        2000211922,
+        2000211956,
+        2000215383,
+        2000212104,
+        2000215339,
+        2000212299,
+        2000211821,
+        2000215439,
+        2000212450,
+        2000211938,
+        2000215459,
+        2000211715,
+        2000212388
+    ],
+    "results": [
+        {
+            "description": "total",
+            "demographic": "Adults 15-34 (16)",
+            "granular_audience": "All Adults (1)",
+            "target_month": 3,
+            "figures": {
+                "impacts": "2406.9254457115",
+                "impacts_pedestrian": "2406.9254457115",
+                "impacts_vehicular": "0",
+                "gross_rating_points": "14.6940702845",
+                "reach": "790.1861304184",
+                "reach_pedestrian": "790.1861304184",
+                "reach_vehicular": "0",
+                "average_frequency": "3.0460234027",
+                "rag_status": "green"
+            },
+            "metrics": {
+                "total_frames": 83,
+                "total_dynamic_frames": 83,
+                "total_contacts": 195156,
+                "total_actual_contacts": 69381,
+                "total_respondents": 2861,
+                "total_actual_respondents": 769
+            }
+        },
+        {
+            "description": "grouping",
+            "demographic": "Adults 15-34 (16)",
+            "granular_audience": "All Adults (1)",
+            "target_month": 3,
+            "environment": "12",
+            "figures": {
+                "impacts": "2406.9254457115",
+                "impacts_pedestrian": "2406.9254457115",
+                "impacts_vehicular": "0",
+                "gross_rating_points": "14.6940702845",
+                "reach": "790.1861304184",
+                "reach_pedestrian": "790.1861304184",
+                "reach_vehicular": "0",
+                "average_frequency": "3.0460234027",
+                "rag_status": "green"
+            },
+            "metrics": {
+                "total_frames": 83,
+                "total_dynamic_frames": 83,
+                "total_contacts": 195156,
+                "total_actual_contacts": 69381,
+                "total_respondents": 2861,
+                "total_actual_respondents": 769
+            }
+        }
+    ],
+    "total_processing_time": 1533,
+    "processed_datetime": "2025-07-28 17:05:07"
+}

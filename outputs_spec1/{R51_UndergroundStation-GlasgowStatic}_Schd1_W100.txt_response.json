@@ -1,0 +1,60 @@
+{
+    "route_release_id": 51,
+    "route_release_revision": 3,
+    "route_algorithm_version": 10.2,
+    "results": [
+        {
+            "description": "total",
+            "demographic": "Adults 15-34 (16)",
+            "granular_audience": "All Adults (1)",
+            "target_month": 3,
+            "figures": {
+                "impacts": "737.2344109207",
+                "impacts_pedestrian": "737.2344109207",
+                "impacts_vehicular": "0",
+                "gross_rating_points": "4.5007518905",
+                "reach": "27.3310884475",
+                "reach_pedestrian": "27.3310884475",
+                "reach_vehicular": "0",
+                "average_frequency": "26.9742060341",
+                "rag_status": "green"
+            },
+            "metrics": {
+                "total_frames": 100,
+                "total_dynamic_frames": 0,
+                "total_contacts": 49181,
+                "total_actual_contacts": 9384,
+                "total_respondents": 842,
+                "total_actual_respondents": 20
+            }
+        },
+        {
+            "description": "grouping",
+            "demographic": "Adults 15-34 (16)",
+            "granular_audience": "All Adults (1)",
+            "target_month": 3,
+            "environment": "12",
+            "figures": {
+                "impacts": "737.2344109207",
+                "impacts_pedestrian": "737.2344109207",
+                "impacts_vehicular": "0",
+                "gross_rating_points": "4.5007518905",
+                "reach": "27.3310884475",
+                "reach_pedestrian": "27.3310884475",
+                "reach_vehicular": "0",
+                "average_frequency": "26.9742060341",
+                "rag_status": "green"
+            },
+            "metrics": {
+                "total_frames": 100,
+                "total_dynamic_frames": 0,
+                "total_contacts": 49181,
+                "total_actual_contacts": 9384,
+                "total_respondents": 842,
+                "total_actual_respondents": 20
+            }
+        }
+    ],
+    "total_processing_time": 302,
+    "processed_datetime": "2025-07-28 17:05:03"
+}

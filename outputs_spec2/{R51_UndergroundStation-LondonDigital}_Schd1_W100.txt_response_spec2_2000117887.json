@@ -1,0 +1,605 @@
+{
+    "route_release_id": 51,
+    "route_release_revision": 3,
+    "route_algorithm_version": 10.2,
+    "results": [
+        {
+            "description": "total",
+            "demographic": "Adults 15-34 (16)",
+            "granular_audience": "All Adults (1)",
+            "target_month": 3,
+            "figures": {
+                "impacts": "7.5584332602",
+                "impacts_pedestrian": "7.5584332602",
+                "impacts_vehicular": "0",
+                "rag_status": "green"
+            },
+            "impacts_quarter_hour": [
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 1,
+                    "impacts": "45.9782933142",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 2,
+                    "impacts": "53.860446771",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 3,
+                    "impacts": "5.0195783952",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 4,
+                    "impacts": "30.5448215811",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 5,
+                    "impacts": "131.8611228042",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 6,
+                    "impacts": "480.4535787575",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 7,
+                    "impacts": "108.0670350518",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 8,
+                    "impacts": "254.5708451947",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 9,
+                    "impacts": "213.36474386",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 10,
+                    "impacts": "294.7956356603",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 11,
+                    "impacts": "352.5634395867",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 12,
+                    "impacts": "51.8395914531",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 13,
+                    "impacts": "44.0348303735",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 14,
+                    "impacts": "740.5453931027",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 15,
+                    "impacts": "26.0452747144",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 16,
+                    "impacts": "248.7369377971",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 17,
+                    "impacts": "7.1305250741",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 18,
+                    "impacts": "12.1209269777",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 19,
+                    "impacts": "0.1466737896",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 20,
+                    "impacts": "4.2874623924",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 21,
+                    "impacts": "70.2648617942",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 22,
+                    "impacts": "33.336378727",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 23,
+                    "impacts": "24.8286969127",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 24,
+                    "impacts": "309.7371241138",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 25,
+                    "impacts": "29.5180180299",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 27,
+                    "impacts": "0.0002328084",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 28,
+                    "impacts": "146.4563390221",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 31,
+                    "impacts": "21.5988604767",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 32,
+                    "impacts": "28.7574700768",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 33,
+                    "impacts": "0.0002540614",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 34,
+                    "impacts": "1.2414448871",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 35,
+                    "impacts": "20.71570675",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 36,
+                    "impacts": "196.979899533",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 37,
+                    "impacts": "51.1189752709",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 38,
+                    "impacts": "35.2632510875",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 39,
+                    "impacts": "4.1282486178",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 40,
+                    "impacts": "23.5995060864",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 41,
+                    "impacts": "14.8518381934",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 42,
+                    "impacts": "20.1734634209",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 43,
+                    "impacts": "23.4969311926",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 44,
+                    "impacts": "55.1983100002",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 45,
+                    "impacts": "37.0626567305",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 46,
+                    "impacts": "236.1467914817",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 47,
+                    "impacts": "173.270036473",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 48,
+                    "impacts": "212.5625849945",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 49,
+                    "impacts": "12.2316366538",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 50,
+                    "impacts": "178.796526738",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 51,
+                    "impacts": "194.1260041171",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 52,
+                    "impacts": "110.7407215047",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 53,
+                    "impacts": "75.0904438177",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 54,
+                    "impacts": "302.7528488575",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 55,
+                    "impacts": "51.790023274",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 56,
+                    "impacts": "0.7274549526",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 58,
+                    "impacts": "136.6209947551",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 59,
+                    "impacts": "117.2538857571",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 60,
+                    "impacts": "264.2828049985",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 61,
+                    "impacts": "346.926818572",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 62,
+                    "impacts": "272.2347524256",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 63,
+                    "impacts": "6.3659872004",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 64,
+                    "impacts": "19.0608063498",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 65,
+                    "impacts": "8.0553414858",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 66,
+                    "impacts": "236.6323169083",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 67,
+                    "impacts": "84.5473259847",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 68,
+                    "impacts": "18.5374153272",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 69,
+                    "impacts": "0.4125327739",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 70,
+                    "impacts": "85.7567653091",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 71,
+                    "impacts": "13.172151715",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 73,
+                    "impacts": "18.7649452215",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 74,
+                    "impacts": "65.9527276113",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 75,
+                    "impacts": "6.5926567316",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 76,
+                    "impacts": "6.2427995785",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 77,
+                    "impacts": "1.4555239147",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 79,
+                    "impacts": "0.1728096427",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 80,
+                    "impacts": "0.186797563",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 81,
+                    "impacts": "0.1262053414",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 82,
+                    "impacts": "0.1765256977",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 83,
+                    "impacts": "0.0930400423",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 88,
+                    "impacts": "0.0744303965",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 93,
+                    "impacts": "0.3512119827",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 94,
+                    "impacts": "8.622087106",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 95,
+                    "impacts": "15.4750423471",
+                    "illumination_effect": "1"
+                },
+                {
+                    "mode_of_transport": 2,
+                    "day": 1,
+                    "time": 96,
+                    "impacts": "21.7558601069",
+                    "illumination_effect": "1"
+                }
+            ],
+            "metrics": {
+                "total_frames": 1,
+                "total_dynamic_frames": 1,
+                "total_contacts": 418,
+                "total_actual_contacts": 74,
+                "total_respondents": 296,
+                "total_actual_respondents": 32
+            }
+        }
+    ],
+    "total_processing_time": 33,
+    "processed_datetime": "2025-07-29 14:45:13"
+}
